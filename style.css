@@ -17,79 +17,81 @@ body {
 
 .container{
     background-color: #161515b4;
-    border-radius: 50px;
+    border-radius: 10px;
     text-align: left;
-    width: 62%;
-    height: 87%;
+    width: 70%;
+    height: 77%;
     margin-top: 40px;
     margin-left: 50%;
     transform: translate(-50%);
-    padding: 100px;
+    padding: 40px;
 }
 
 .main-logo{
     text-align: center;
-    margin-top: 300px;
+    margin-top: 40px;
 }
 .main-title{
     color: #00dd00;
-    font-size: 130px;
+    font-size: 50px;
 }
 
 .choose > button{
-    font-size: 40px;
-    padding: 20px;
-    margin: 20px;
+    font-size: 10px;
+    padding: 5px;
+    margin: 10px;
 }
 
 .choose{
     text-align: center;
     background-color: #00dd00;
-    padding: 10px;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 .prenotation span.nome-monopattino{
-    font-size: 80px;
+    font-size: 30px;
     font-weight: bold;
 }
 
 .prenotation span.scooter-location{
-    font-size: 60px;
+    font-size: 10px;
 }
 
 input[type="checkbox"] {
-    width: 40px;
-    height: 40px;
+    width: 10px;
+    height: 10px;
     background-color: initial;
     cursor: default;
     appearance: auto;
     box-sizing: border-box;
-    margin: 9px 30px 9px 12px;
     padding: initial;
     border: initial;
 }
 .caricaGino{
     background-color: rgb(223, 175, 71);
-    height: 100px;
+    height: 20px;
     width: 32.5%;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 .caricaMike{
     background-color: rgb(0, 255, 0);
-    height: 100px;
+    height: 20px;
     width: 65%;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 .caricaFede{
     background-color: rgb(255, 0, 0);
-    height: 100px;
+    height: 20px;
     width: 16.25%;
-    border-radius: 20px;
+    border-radius: 5px;
 }
 
 .scooter{
-    margin: 50px;
+    margin: 10px;
+}
+
+#Lim{
+    width: 20%;
 }
